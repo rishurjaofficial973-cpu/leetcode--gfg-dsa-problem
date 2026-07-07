@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0202-happy-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0457-circular-array-loop) |
 | [0904-fruit-into-baskets](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0904-fruit-into-baskets) |
 ## Sorting
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0904-fruit-into-baskets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
