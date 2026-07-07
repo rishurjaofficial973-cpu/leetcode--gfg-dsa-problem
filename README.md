@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0283-move-zeroes) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0283-move-zeroes) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
