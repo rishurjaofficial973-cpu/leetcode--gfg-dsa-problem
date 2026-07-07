@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
