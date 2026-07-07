@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
