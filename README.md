@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
