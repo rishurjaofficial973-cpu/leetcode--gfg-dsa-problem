@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0283-move-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0844-backspace-string-compare) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
